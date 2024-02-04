@@ -1,4 +1,4 @@
-### Hi there 👋
+### Welcome to my GitHub repository! I am a seasoned software engineer with five years of hands-on experience specializing in mobile app development using React Native. Over the course of my career, I have successfully delivered innovative solutions for diverse domains, including telemedicine, enterprise resource planning (ERP) for renewable energy, and grocery applications.
 
 <!--
 **meliodev/meliodev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
